@@ -9,7 +9,9 @@ Here we go with data galore.
 <div filename="co2-concentration.csv" data-csv-embed="">
 </div>
 
-![lenna.png](https://raw.githubusercontent.com/rufuspollock/florist-test/main/1766605123376-lenna.png)## Another little data file
+![lenna.png](https://raw.githubusercontent.com/rufuspollock/florist-test/main/1766605123376-lenna.png)
+
+## Another little data file
 
 <div filename="world-cities.csv" data-csv-embed="">
 </div>
